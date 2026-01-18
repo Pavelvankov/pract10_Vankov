@@ -1,0 +1,19 @@
+{
+  "IdP": 86256,
+  "NameP": "Данил",
+  "LastNameP": "Ширяев",
+  "MiddleNameP": "Владиславович",
+  "LastAppointment": "17.11.2025",
+  "Birthday": "16.11.2006",
+  "DiagnosisP": "Кашель",
+  "Recomendations": "",
+  "PhoneNumber": "891234532423",
+  "AppointmentStories": [
+    {
+      "DateP": "",
+      "DoctorId": 4486,
+      "Diagnosis": "",
+      "Recomendations": ""
+    }
+  ]
+}

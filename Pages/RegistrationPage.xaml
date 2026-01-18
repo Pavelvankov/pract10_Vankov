@@ -1,0 +1,163 @@
+<Page x:Class="PriemPatient.Pages.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PriemPatient.Pages"
+      xmlns:validators="clr-namespace:PriemPatient.ValidationRules"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="350"
+      Title="RegistrationPage"
+      Background="{DynamicResource WindowBackground}"
+      >
+
+    <Grid Style="{StaticResource Grid1}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label FontSize="30">Регистрация</Label>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Style="{StaticResource PanelForm}">
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Имя"/>
+                <TextBox x:Name="NameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentUser.Name" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=NameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Фамилия"/>
+                <TextBox x:Name="LastNameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentUser.LastName" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=LastNameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Отчество"/>
+                <TextBox x:Name="MiddleNameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentUser.MiddleName" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=MiddleNameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Специализация"/>
+                <TextBox x:Name="SpecialisationBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentUser.Specialisation" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=SpecialisationBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Пароль"/>
+                <TextBox x:Name="PasswordBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentUser.Password" Mode="OneWayToSource" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=PasswordBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Подтвердите пароль"/>
+                <TextBox x:Name="RegConfirmPasswordTextBox">
+                    <TextBox.Text>
+                        <Binding Path="ConfirmPassword" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=RegConfirmPasswordTextBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelBottomCenter}">
+                <Button Style="{StaticResource ButtonAdd}" Click="RegisterButton_Click">Зарегестрироваться</Button>
+                <Button Style="{StaticResource Button1}" Click="BackButton_Click">Назад</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

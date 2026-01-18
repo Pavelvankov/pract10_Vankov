@@ -1,0 +1,129 @@
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\pract8.exe
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\pract8.deps.json
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\pract8.runtimeconfig.json
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\pract8.dll
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\pract8.pdb
+C:\Users\st310-03\Documents\Vankov\pract8\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.csproj.AssemblyReference.cache
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\AddPatientPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\EditPatientPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\EditPriemPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\PriemPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8_MarkupCompile.cache
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8_MarkupCompile.lref
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\AddPatientPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\EditPatientPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\EditPriemPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\PriemPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.g.resources
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.AssemblyInfoInputs.cache
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.AssemblyInfo.cs
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.csproj.CoreCompileInputs.cache
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.sourcelink.json
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.csproj.CopyComplete
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.dll
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\refint\pract8.dll
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.pdb
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\pract8.genruntimeconfig.cache
+C:\Users\st310-03\Documents\Vankov\pract8\obj\Debug\net8.0-windows\ref\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.exe
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.dll.config
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.deps.json
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.runtimeconfig.json
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\pract8.pdb
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Styles\Colors\LightTheme.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\AddPatientPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\EditPatientPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\EditPriemPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\PriemPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8_MarkupCompile.cache
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8_MarkupCompile.lref
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\AddPatientPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\EditPatientPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\EditPriemPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\PriemPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.g.resources
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.AssemblyInfo.cs
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.csproj.Up2Date
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\refint\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.pdb
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\pract8.genruntimeconfig.cache
+C:\Users\user\Desktop\Залопа кая\pract8_Vankov-main\obj\Debug\net8.0-windows\ref\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.exe
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.dll.config
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.deps.json
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.runtimeconfig.json
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\pract8.pdb
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Styles\Colors\DarkTheme.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Styles\Colors\LightTheme.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Styles\UI\Controls.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\App.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\AddPatientPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\EditPatientPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\EditPriemPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\LoginPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\PriemPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8_MarkupCompile.cache
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8_MarkupCompile.lref
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\AddPatientPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\EditPatientPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\EditPriemPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\LoginPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\PriemPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.g.resources
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.AssemblyInfo.cs
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.csproj.Up2Date
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\refint\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.pdb
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\pract8.genruntimeconfig.cache
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\ref\pract8.dll
+C:\Users\user\Desktop\Залопа кая\pract10_Vankov\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

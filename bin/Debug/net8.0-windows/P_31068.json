@@ -1,0 +1,37 @@
+{
+  "IdP": 31068,
+  "NameP": "Петр",
+  "LastNameP": "Иванов",
+  "MiddleNameP": "Петрович",
+  "LastAppointment": "17.11.2025",
+  "Birthday": "10.11.2000",
+  "DiagnosisP": "",
+  "RecomendationsP": "",
+  "PhoneNumber": "8934234234",
+  "AppointmentStories": [
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "",
+      "Recomendations": ""
+    },
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "головная боль",
+      "Recomendations": "спать"
+    },
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "фвцв",
+      "Recomendations": "ыфвфц"
+    },
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "йцуйцу",
+      "Recomendations": "ыфвфыв"
+    }
+  ]
+}

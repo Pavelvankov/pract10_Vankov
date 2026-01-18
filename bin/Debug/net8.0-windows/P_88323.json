@@ -1,0 +1,25 @@
+{
+  "IdP": 88323,
+  "NameP": "Николай",
+  "LastNameP": "Иванов",
+  "MiddleNameP": "Иванович",
+  "LastAppointment": "17.11.2025",
+  "Birthday": "01.01.2010",
+  "DiagnosisP": "Кашель",
+  "RecomendationsP": "Чай горячий",
+  "PhoneNumber": "8945643563",
+  "AppointmentStories": [
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "Кашель",
+      "Recomendations": "Чай горячий"
+    },
+    {
+      "Date": "17.11.2025",
+      "DoctorId": 4486,
+      "Diagnosis": "Язык",
+      "Recomendations": "Болит"
+    }
+  ]
+}

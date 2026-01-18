@@ -1,0 +1,138 @@
+<Page x:Class="pract8.Pages.AddPatientPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract8.Pages"
+      xmlns:validators="clr-namespace:PriemPatient.ValidationRules"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="550"
+      Title="AddPatient"
+      Background="{DynamicResource WindowBackground}"
+      >
+
+    <Grid Style="{StaticResource Grid1}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label FontSize="30" FontWeight="Bold">Добавление пациента</Label>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Style="{StaticResource PanelForm}">
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Имя"/>
+                <TextBox x:Name="nameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentPatient.NameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=nameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Фамилия"/>
+                <TextBox x:Name="LastnameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentPatient.LastNameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=LastnameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Отчество"/>
+                <TextBox x:Name="MiddlenameBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentPatient.MiddleNameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=MiddlenameBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Дата рождения"/>
+                <TextBox x:Name="BirthdayBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentPatient.Birthday" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=BirthdayBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Телефон"/>
+                <TextBox x:Name="PhoneBox">
+                    <TextBox.Text>
+                        <Binding Path="CurrentPatient.PhoneNumber" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <validators:InputValidation/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl Foreground="Red"
+                              FontSize="10"
+                              ItemsSource="{Binding ElementName=PhoneBox, Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}" Foreground="red" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Style="{StaticResource PanelBottomCenter}" Orientation="Horizontal">
+            <Button Style="{StaticResource ButtonAdd}" Click="AddButton_Click"></Button>
+            <Button Style="{StaticResource Button1}" Click="BackButton_Click">Назад</Button>
+        </StackPanel>
+    </Grid>
+</Page>

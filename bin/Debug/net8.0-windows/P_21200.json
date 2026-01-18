@@ -1,0 +1,25 @@
+{
+  "IdP": 21200,
+  "NameP": "Валера",
+  "LastNameP": "Васев",
+  "MiddleNameP": "Владиславовис",
+  "LastAppointment": "10,20,121",
+  "Birthday": "02.11.2008",
+  "DiagnosisP": "2312",
+  "RecomendationsP": "21321",
+  "PhoneNumber": "932930293204",
+  "AppointmentStories": [
+    {
+      "Date": "",
+      "DoctorId": 4486,
+      "Diagnosis": "",
+      "Recomendations": "ggggg"
+    },
+    {
+      "Date": "10,20,121",
+      "DoctorId": 6725,
+      "Diagnosis": "2312",
+      "Recomendations": "21321"
+    }
+  ]
+}

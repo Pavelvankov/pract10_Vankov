@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\styles\\ui\\controls.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:styles\\ui\\controls.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\styles\\colors\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:styles\\colors\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\styles\\colors\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:styles\\colors\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pract8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pract8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\addpatientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\addpatientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\editpatientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\editpatientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\editpriempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\editpriempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pract8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pract8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\editpriempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\editpriempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\pages\\priempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:pages\\priempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|c:\\users\\user\\desktop\\\u0437\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_vankov\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61B2AF-ECFD-4535-AC36-D622E3CA8877}|pract8.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pract8.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\pract8.csproj",
+              "RelativeDocumentMoniker": "pract8.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\pract8.csproj",
+              "RelativeToolTip": "pract8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T17:22:21.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T17:18:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controls.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\UI\\Controls.xaml",
+              "RelativeDocumentMoniker": "Styles\\UI\\Controls.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\UI\\Controls.xaml",
+              "RelativeToolTip": "Styles\\UI\\Controls.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T17:16:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\Colors\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "Styles\\Colors\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\Colors\\LightTheme.xaml",
+              "RelativeToolTip": "Styles\\Colors\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T17:16:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\Colors\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "Styles\\Colors\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Styles\\Colors\\DarkTheme.xaml",
+              "RelativeToolTip": "Styles\\Colors\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T17:16:10.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-01-18T15:43:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pract8",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\pract8.csproj",
+              "RelativeDocumentMoniker": "pract8.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\pract8.csproj",
+              "RelativeToolTip": "pract8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T15:43:43.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditPriemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPriemPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditPriemPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPriemPage.xaml",
+              "RelativeToolTip": "Pages\\EditPriemPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditPatientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPatientPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditPatientPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPatientPage.xaml",
+              "RelativeToolTip": "Pages\\EditPatientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditPriemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPriemPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditPriemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\EditPriemPage.xaml.cs",
+              "RelativeToolTip": "Pages\\EditPriemPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwD0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:42:37.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPatientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\AddPatientPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddPatientPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\AddPatientPage.xaml",
+              "RelativeToolTip": "Pages\\AddPatientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:42:37.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:42:37.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAJoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:42:37.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PriemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\PriemPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\PriemPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\PriemPage.xaml",
+              "RelativeToolTip": "Pages\\PriemPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T15:42:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0417\u0430\u043B\u043E\u043F\u0430 \u043A\u0430\u044F\\pract10_Vankov\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:42:37.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
