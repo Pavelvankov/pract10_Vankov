@@ -34,7 +34,7 @@
         <StackPanel Grid.Row="1" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Фамилия:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="LastnameBox" Width="200">
+                <TextBox x:Name="LastnameBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.LastNameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -56,7 +56,7 @@
         <StackPanel Grid.Row="2" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Имя:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="nameBox" Width="200">
+                <TextBox x:Name="nameBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.NameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -78,7 +78,7 @@
         <StackPanel Grid.Row="3" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Отчество:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="MiddlenameBox" Width="200">
+                <TextBox x:Name="MiddlenameBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.MiddleNameP" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -100,7 +100,7 @@
         <StackPanel Grid.Row="4" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Дата рождения:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="BirthdayBox" Width="200">
+                <TextBox x:Name="BirthdayBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.Birthday" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -122,7 +122,7 @@
         <StackPanel Grid.Row="5" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Телефон:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="PhoneBox" Width="200">
+                <TextBox x:Name="PhoneBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.PhoneNumber" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -144,7 +144,7 @@
         <StackPanel Grid.Row="6" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Дата:" Width="100"/>
             <StackPanel>
-                <TextBox x:Name="LastAppointmentBox" Width="200">
+                <TextBox x:Name="LastAppointmentBox" Width="300">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.LastAppointment" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -166,7 +166,7 @@
         <StackPanel Grid.Row="7" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Диагноз:" Width="100"/>
             <StackPanel>
-                <TextBox Width="200" x:Name="DiagnosisBox">
+                <TextBox Width="300" x:Name="DiagnosisBox">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.DiagnosisP" Mode="OneWayToSource">
                             <Binding.ValidationRules>
@@ -189,7 +189,7 @@
         <StackPanel Grid.Row="8" Orientation="Horizontal" Style="{StaticResource PanelField}" Margin="0,0,0,10">
             <TextBlock Text="Рекомендации:" Width="100"/>
             <StackPanel>
-                <TextBox Width="200" x:Name="RecommendadionBox">
+                <TextBox Width="300" x:Name="RecommendadionBox">
                     <TextBox.Text>
                         <Binding Path="CurrentPatient.RecomendationsP" Mode="OneWayToSource">
                             <Binding.ValidationRules>
